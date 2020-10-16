@@ -1,0 +1,27 @@
+header
+.view {
+    height: 300px;
+}
+
+.full-bg-img {
+    position: relative;
+    top: 50%;
+}
+
+.intro-2 {
+    background: url("../../assets/bg.jpg")no-repeat center center;
+    background-size: cover;
+}
+
+.navbar {
+    z-index: 1;
+    background-color: transparent;
+}
+.top-nav-collapse {
+    background-color: #4285F4;
+}
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #4285F4;
+    }
+}

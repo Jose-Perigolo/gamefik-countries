@@ -1,0 +1,37 @@
+.thumbimg {
+    height: 240px;
+    width: 14rem;
+    box-shadow: 0 3px 6px 0 rgba(4, 73, 89, 0.06);
+    display: inline-block; /* change the default display type to inline-block */
+    overflow: hidden;      /* hide the overflow */
+}
+
+.card-img-top {
+    height: 120px;
+    object-fit: cover;
+}
+
+.card-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+.thumbimg:hover {
+    box-shadow: 0 20px 24px 0 rgba(4, 73, 89, 0.1);
+}
+
+.thumbimg:hover .card-img-top{
+    transform: scale(1.1) ;
+}
+
+.capitalicon {
+    padding-bottom: 3px;
+    margin-right: 0.3rem;
+}
