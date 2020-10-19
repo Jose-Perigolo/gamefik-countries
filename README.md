@@ -8,4 +8,5 @@ The style in this App is created using Bootstrap by cdn.
 
 It shows all countries in the API library. The user can filter them by Country name.
 
+Preview: https://jose-perigolo.github.io/gamefik-countries/
 
