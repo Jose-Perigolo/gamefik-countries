@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/gamefik-countries/%20/static/css/main.8983a3ac.chunk.css",
-    "main.js": "/gamefik-countries/%20/static/js/main.24fa5516.chunk.js",
-    "main.js.map": "/gamefik-countries/%20/static/js/main.24fa5516.chunk.js.map",
-    "runtime-main.js": "/gamefik-countries/%20/static/js/runtime-main.e9a4f99b.js",
-    "runtime-main.js.map": "/gamefik-countries/%20/static/js/runtime-main.e9a4f99b.js.map",
-    "static/js/2.39355183.chunk.js": "/gamefik-countries/%20/static/js/2.39355183.chunk.js",
-    "static/js/2.39355183.chunk.js.map": "/gamefik-countries/%20/static/js/2.39355183.chunk.js.map",
-    "index.html": "/gamefik-countries/%20/index.html",
-    "precache-manifest.0222598d650129d2cdec1c6f7b8214e5.js": "/gamefik-countries/%20/precache-manifest.0222598d650129d2cdec1c6f7b8214e5.js",
-    "service-worker.js": "/gamefik-countries/%20/service-worker.js",
-    "static/css/main.8983a3ac.chunk.css.map": "/gamefik-countries/%20/static/css/main.8983a3ac.chunk.css.map",
-    "static/js/2.39355183.chunk.js.LICENSE.txt": "/gamefik-countries/%20/static/js/2.39355183.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/gamefik-countries/%20/static/media/bg.5f18a76a.jpg"
+    "main.css": "/gamefik-countries/static/css/main.7316cbab.chunk.css",
+    "main.js": "/gamefik-countries/static/js/main.a01657e0.chunk.js",
+    "main.js.map": "/gamefik-countries/static/js/main.a01657e0.chunk.js.map",
+    "runtime-main.js": "/gamefik-countries/static/js/runtime-main.cd466b45.js",
+    "runtime-main.js.map": "/gamefik-countries/static/js/runtime-main.cd466b45.js.map",
+    "static/js/2.39355183.chunk.js": "/gamefik-countries/static/js/2.39355183.chunk.js",
+    "static/js/2.39355183.chunk.js.map": "/gamefik-countries/static/js/2.39355183.chunk.js.map",
+    "index.html": "/gamefik-countries/index.html",
+    "precache-manifest.c79699ab02a5c4df02d4c69d4c08f84c.js": "/gamefik-countries/precache-manifest.c79699ab02a5c4df02d4c69d4c08f84c.js",
+    "service-worker.js": "/gamefik-countries/service-worker.js",
+    "static/css/main.7316cbab.chunk.css.map": "/gamefik-countries/static/css/main.7316cbab.chunk.css.map",
+    "static/js/2.39355183.chunk.js.LICENSE.txt": "/gamefik-countries/static/js/2.39355183.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/gamefik-countries/static/media/bg.5f18a76a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9a4f99b.js",
+    "static/js/runtime-main.cd466b45.js",
     "static/js/2.39355183.chunk.js",
-    "static/css/main.8983a3ac.chunk.css",
-    "static/js/main.24fa5516.chunk.js"
+    "static/css/main.7316cbab.chunk.css",
+    "static/js/main.a01657e0.chunk.js"
   ]
 }
